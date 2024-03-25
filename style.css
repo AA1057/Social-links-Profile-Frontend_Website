@@ -14,10 +14,11 @@ body {
 }
 
 .attribution {
-    position: relative;
+    position: absolute;
     font-size: 11px;
     text-align: center;
-    top: 200px;
+    color: #FFFFFF;
+    top: 95%;
 }
 
 .attribution a {
